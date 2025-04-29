@@ -41,14 +41,13 @@ There are a number of different breakpoint configurations that is possible, it a
 Try to resize your browser window until it is about 800 pixels wide, emulating how the page may look on a mobile phone. 
 Notice that you get a horizontal scroll bar, because we set the width and margin of the `container` element. 
 
-![horizontal scroll](horizontal-scroll.png)
-
+<img src="horizontal-scroll.png" width="500px" />
 
 Make sure the container gets a margin and a fixed width *only* if the screen is at least 900 pixels wide. 
 
 The result should look something like this: 
 
-![minimum width media query result](media-query-min-width.png)
+<img src="media-query-min-width.png" width="500px" />
 
 #### Task 2 - Dark mode 
 

@@ -193,7 +193,7 @@ The cards live inside the `<div class="content"></div>` so that will make our ne
 :question: Do you need to use grid-areas here, or could you solve this differently than the main layout?
 :question: How do you get the same spacing between each card, but not on the outside?
 
-![grid](images/grid-cards.jpg)
+![grid](images/grid-cards.png)
 
 ### Task 2.2 Center the card with flexbox
 
